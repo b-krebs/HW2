@@ -1,0 +1,125 @@
+
+ul.topnav {
+
+	background-color: #1A7B65;
+	text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+
+ul.topnav li {float: left;}
+
+
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of links on hover */
+ul.topnav li a:hover {background-color: #555;}
+
+
+h1 {
+
+	text-align: center;
+
+}
+
+h5{
+
+font-size: 16px;
+
+}
+
+h6 {
+	font-size: 14px;
+}
+
+ul {
+	
+	font-size: 14px;
+
+}
+
+p{
+	font-size: 14px;
+}
+
+#container {
+
+
+	margin:30px 60px 100px 60px;
+}
+
+#permanent {
+
+
+padding-top: 15px;
+float: left; 
+width: 33%;
+
+}
+
+#email {
+
+
+padding-top: 61px;
+float: left; 
+width: 33%;
+
+}
+
+#current {
+
+
+float: left; 
+width: 33%;
+}
+
+#contact {
+
+
+text-align: center;
+margin-bottom: 130px;
+
+}
+
+
+
+#jobs {
+
+padding-left: 100px;
+margin-top: -15px;
+float: left; 
+width: 50%;
+
+}
+
+#dates {
+
+
+margin-top: -15px;
+padding-right: 70px;
+float: right;
+width: 20%
+}
+
+#computer {
+
+
+padding-top: 20px;
+padding-left: 100px;
+float: left; 
+width: 100%;
+}
+
+
+
